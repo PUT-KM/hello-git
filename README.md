@@ -1,2 +1,6 @@
 # hello-git
-test
+---
+Sample repo for learn
+
+# Credits
+no
